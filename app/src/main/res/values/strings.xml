@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BusinessCard1</string>
+    <string name="dental_surgeon">Dental surgeon</string>
+    <string name="dr_oleg_mayami">Dr. Oleg Mayami</string>
+    <string name="your_friendly_dental_friend">Your friendly Dental Friend</string>
+    <string name="abdumomunova_146">Abdumomunova 146</string>
+    <string name="save_to_phonebook">Save to phonebook</string>
+    <string name="whatsapp_me">WhatsApp Me</string>
+    <string name="www_dental_com">www.dental.com</string>
+    <string name="oleg_mayami93_gmail_com">oleg.mayami93@gmail.com</string>
+</resources>
